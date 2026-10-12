@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FastFood Order Wizard</string>
+
+    <string name="tab_main_meal">Main Meal</string>
+    <string name="tab_side_dishes">Side Dishes</string>
+    <string name="tab_drink">Drink</string>
+    <string name="tab_confirm">Confirm</string>
+
+    <string name="main_meal_title">Select Main Meal</string>
+    <string name="main_meal_burger">Burger</string>
+    <string name="main_meal_fried_chicken">Fried Chicken</string>
+    <string name="main_meal_nuggets">Chicken Nuggets</string>
+
+    <string name="side_dishes_title">Select Side Dishes (choose at least one)</string>
+    <string name="side_dishes_fries">Fries</string>
+    <string name="side_dishes_salad">Salad</string>
+    <string name="side_dishes_corn_cup">Corn Cup</string>
+
+    <string name="drink_title">Select Drink</string>
+    <string name="drink_cola">Cola</string>
+    <string name="drink_iced_tea">Iced Tea</string>
+    <string name="drink_water">Water</string>
+
+    <string name="order_summary_placeholder">Your order summary will appear here.</string>
+
+    <string name="confirm_button">Confirm</string>
+    <string name="done_button">Done</string>
+</resources>
